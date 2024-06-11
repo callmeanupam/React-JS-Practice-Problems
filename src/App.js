@@ -1,12 +1,12 @@
 import React from "react";
 // import HelloWorld from "./HelloWorld";
-import Two from "./Two";
+import CounterApp from "./CounterApp";
 
 const App = () => {
   return (
     <div>
       {/* <HelloWorld /> */}
-      <Two />
+      <CounterApp />
     </div>
   );
 };
